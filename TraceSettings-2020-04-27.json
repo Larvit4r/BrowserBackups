@@ -1,0 +1,1972 @@
+{
+    "compat": 1,
+    "maxStoreSize": 5242880,
+    "backupTime": "Mon Apr 27 2020 17:11:10 GMT-0400 (Eastern Daylight Time)",
+    "version": "3.0.4",
+    "browser": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36",
+    "computed": {
+        "verified": "4a4589aca7cf1ef9664af50c8b9a6416"
+    },
+    "data": {
+        "Main_ExecutionOrder": {
+            "AllPage": [
+                "Pref_AudioFingerprint",
+                "Pref_GoogleHeader",
+                "Pref_ETagTrack",
+                "Pref_PingBlock",
+                "Pref_NetworkInformation",
+                "Pref_ClientRects",
+                "Pref_HardwareSpoof",
+                "Pref_ScreenRes",
+                "Pref_PluginHide",
+                "Pref_WebRTC",
+                "Pref_CookieEater",
+                "Pref_ReferHeader",
+                "Pref_UserAgent",
+                "Pref_BatteryApi",
+                "Pref_IPSpoof",
+                "Pref_WebGLFingerprint",
+                "Pref_CommonTracking",
+                "Pref_CanvasFingerprint",
+                "Pref_NativeFunctions"
+            ],
+            "PerPage": []
+        },
+        "Main_Interface": {
+            "Theme": {
+                "name": "tracegreyscale",
+                "navPlacement": "nav_left",
+                "timeAlterations": true
+            },
+            "enabled": true
+        },
+        "Main_PageList": {
+            "*.googleapis.*": {
+                "InitRequests": false,
+                "PresetLevel": null,
+                "Protections": {
+                    "Pref_AudioFingerprint": true,
+                    "Pref_BatteryApi": true,
+                    "Pref_CanvasFingerprint": true,
+                    "Pref_ClientRects": false,
+                    "Pref_CommonTracking": false,
+                    "Pref_CookieEater": false,
+                    "Pref_ETagTrack": false,
+                    "Pref_GoogleHeader": false,
+                    "Pref_HardwareSpoof": true,
+                    "Pref_IPSpoof": false,
+                    "Pref_NativeFunctions": false,
+                    "Pref_NetworkInformation": true,
+                    "Pref_PingBlock": false,
+                    "Pref_PluginHide": false,
+                    "Pref_ReferHeader": false,
+                    "Pref_ScreenRes": true,
+                    "Pref_UserAgent": true,
+                    "Pref_WebGLFingerprint": true,
+                    "Pref_WebRTC": true
+                },
+                "SiteBlocked": false
+            },
+            "*.gstatic.*": {
+                "InitRequests": false,
+                "PresetLevel": null,
+                "Protections": {
+                    "Pref_AudioFingerprint": true,
+                    "Pref_BatteryApi": true,
+                    "Pref_CanvasFingerprint": true,
+                    "Pref_ClientRects": false,
+                    "Pref_CommonTracking": false,
+                    "Pref_CookieEater": false,
+                    "Pref_ETagTrack": false,
+                    "Pref_GoogleHeader": false,
+                    "Pref_HardwareSpoof": true,
+                    "Pref_IPSpoof": false,
+                    "Pref_NativeFunctions": false,
+                    "Pref_NetworkInformation": true,
+                    "Pref_PingBlock": false,
+                    "Pref_PluginHide": false,
+                    "Pref_ReferHeader": false,
+                    "Pref_ScreenRes": true,
+                    "Pref_UserAgent": true,
+                    "Pref_WebGLFingerprint": true,
+                    "Pref_WebRTC": true
+                },
+                "SiteBlocked": false
+            },
+            "*bootstrapcdn.*": {
+                "InitRequests": false,
+                "PresetLevel": null,
+                "Protections": {
+                    "Pref_AudioFingerprint": true,
+                    "Pref_BatteryApi": true,
+                    "Pref_CanvasFingerprint": true,
+                    "Pref_ClientRects": false,
+                    "Pref_CommonTracking": false,
+                    "Pref_CookieEater": false,
+                    "Pref_ETagTrack": false,
+                    "Pref_GoogleHeader": false,
+                    "Pref_HardwareSpoof": true,
+                    "Pref_IPSpoof": false,
+                    "Pref_NativeFunctions": false,
+                    "Pref_NetworkInformation": false,
+                    "Pref_PingBlock": false,
+                    "Pref_PluginHide": false,
+                    "Pref_ReferHeader": false,
+                    "Pref_ScreenRes": true,
+                    "Pref_UserAgent": true,
+                    "Pref_WebGLFingerprint": true,
+                    "Pref_WebRTC": true
+                },
+                "SiteBlocked": false
+            },
+            "*box.com*": {
+                "InitRequests": false,
+                "PresetLevel": null,
+                "Protections": {
+                    "Pref_AudioFingerprint": false,
+                    "Pref_BatteryApi": false,
+                    "Pref_CanvasFingerprint": false,
+                    "Pref_ClientRects": false,
+                    "Pref_CommonTracking": false,
+                    "Pref_CookieEater": false,
+                    "Pref_ETagTrack": false,
+                    "Pref_GoogleHeader": false,
+                    "Pref_HardwareSpoof": false,
+                    "Pref_IPSpoof": false,
+                    "Pref_NativeFunctions": false,
+                    "Pref_NetworkInformation": false,
+                    "Pref_PingBlock": false,
+                    "Pref_PluginHide": false,
+                    "Pref_ReferHeader": false,
+                    "Pref_ScreenRes": false,
+                    "Pref_UserAgent": false,
+                    "Pref_WebGLFingerprint": false,
+                    "Pref_WebRTC": false
+                },
+                "SiteBlocked": false
+            },
+            "*cizgifilmlerizle.*": {
+                "InitRequests": false,
+                "PresetLevel": null,
+                "Protections": {
+                    "Pref_AudioFingerprint": true,
+                    "Pref_BatteryApi": true,
+                    "Pref_CanvasFingerprint": false,
+                    "Pref_ClientRects": false,
+                    "Pref_CommonTracking": false,
+                    "Pref_CookieEater": false,
+                    "Pref_ETagTrack": false,
+                    "Pref_GoogleHeader": false,
+                    "Pref_HardwareSpoof": true,
+                    "Pref_IPSpoof": false,
+                    "Pref_NativeFunctions": false,
+                    "Pref_NetworkInformation": true,
+                    "Pref_PingBlock": false,
+                    "Pref_PluginHide": false,
+                    "Pref_ReferHeader": false,
+                    "Pref_ScreenRes": true,
+                    "Pref_UserAgent": true,
+                    "Pref_WebGLFingerprint": true,
+                    "Pref_WebRTC": true
+                },
+                "SiteBlocked": false
+            },
+            "*duckduckgo.*": {
+                "InitRequests": false,
+                "PresetLevel": null,
+                "Protections": {
+                    "Pref_AudioFingerprint": true,
+                    "Pref_BatteryApi": true,
+                    "Pref_CanvasFingerprint": true,
+                    "Pref_ClientRects": false,
+                    "Pref_CommonTracking": false,
+                    "Pref_CookieEater": false,
+                    "Pref_ETagTrack": false,
+                    "Pref_GoogleHeader": false,
+                    "Pref_HardwareSpoof": true,
+                    "Pref_IPSpoof": false,
+                    "Pref_NativeFunctions": false,
+                    "Pref_NetworkInformation": true,
+                    "Pref_PingBlock": false,
+                    "Pref_PluginHide": false,
+                    "Pref_ReferHeader": false,
+                    "Pref_ScreenRes": true,
+                    "Pref_UserAgent": true,
+                    "Pref_WebGLFingerprint": true,
+                    "Pref_WebRTC": true
+                },
+                "SiteBlocked": false
+            },
+            "*embed*ly*": {
+                "InitRequests": false,
+                "PresetLevel": null,
+                "Protections": {
+                    "Pref_AudioFingerprint": false,
+                    "Pref_BatteryApi": false,
+                    "Pref_CanvasFingerprint": false,
+                    "Pref_ClientRects": false,
+                    "Pref_CommonTracking": false,
+                    "Pref_CookieEater": false,
+                    "Pref_ETagTrack": false,
+                    "Pref_GoogleHeader": false,
+                    "Pref_HardwareSpoof": false,
+                    "Pref_IPSpoof": false,
+                    "Pref_NativeFunctions": false,
+                    "Pref_NetworkInformation": false,
+                    "Pref_PingBlock": false,
+                    "Pref_PluginHide": false,
+                    "Pref_ReferHeader": false,
+                    "Pref_ScreenRes": false,
+                    "Pref_UserAgent": true,
+                    "Pref_WebGLFingerprint": false,
+                    "Pref_WebRTC": false
+                },
+                "SiteBlocked": false
+            },
+            "*fandom.com*": {
+                "InitRequests": false,
+                "PresetLevel": null,
+                "Protections": {
+                    "Pref_AudioFingerprint": true,
+                    "Pref_BatteryApi": true,
+                    "Pref_CanvasFingerprint": true,
+                    "Pref_ClientRects": false,
+                    "Pref_CommonTracking": false,
+                    "Pref_CookieEater": false,
+                    "Pref_ETagTrack": false,
+                    "Pref_GoogleHeader": false,
+                    "Pref_HardwareSpoof": true,
+                    "Pref_IPSpoof": false,
+                    "Pref_NativeFunctions": false,
+                    "Pref_NetworkInformation": false,
+                    "Pref_PingBlock": false,
+                    "Pref_PluginHide": false,
+                    "Pref_ReferHeader": false,
+                    "Pref_ScreenRes": false,
+                    "Pref_UserAgent": true,
+                    "Pref_WebGLFingerprint": true,
+                    "Pref_WebRTC": true
+                },
+                "SiteBlocked": false
+            },
+            "*fembed.com*": {
+                "InitRequests": false,
+                "PresetLevel": null,
+                "Protections": {
+                    "Pref_AudioFingerprint": false,
+                    "Pref_BatteryApi": false,
+                    "Pref_CanvasFingerprint": false,
+                    "Pref_ClientRects": false,
+                    "Pref_CommonTracking": false,
+                    "Pref_CookieEater": false,
+                    "Pref_ETagTrack": false,
+                    "Pref_GoogleHeader": false,
+                    "Pref_HardwareSpoof": false,
+                    "Pref_IPSpoof": false,
+                    "Pref_NativeFunctions": false,
+                    "Pref_NetworkInformation": false,
+                    "Pref_PingBlock": false,
+                    "Pref_PluginHide": false,
+                    "Pref_ReferHeader": false,
+                    "Pref_ScreenRes": false,
+                    "Pref_UserAgent": true,
+                    "Pref_WebGLFingerprint": false,
+                    "Pref_WebRTC": false
+                },
+                "SiteBlocked": false
+            },
+            "*github.com*": {
+                "InitRequests": true,
+                "PresetLevel": null,
+                "Protections": {
+                    "Pref_AudioFingerprint": true,
+                    "Pref_BatteryApi": true,
+                    "Pref_CanvasFingerprint": true,
+                    "Pref_ClientRects": true,
+                    "Pref_CommonTracking": true,
+                    "Pref_CookieEater": false,
+                    "Pref_ETagTrack": true,
+                    "Pref_GoogleHeader": true,
+                    "Pref_HardwareSpoof": true,
+                    "Pref_IPSpoof": false,
+                    "Pref_NativeFunctions": true,
+                    "Pref_NetworkInformation": true,
+                    "Pref_PingBlock": true,
+                    "Pref_PluginHide": true,
+                    "Pref_ReferHeader": true,
+                    "Pref_ScreenRes": true,
+                    "Pref_UserAgent": true,
+                    "Pref_WebGLFingerprint": true,
+                    "Pref_WebRTC": true
+                },
+                "SiteBlocked": false
+            },
+            "*gounlimited.to*": {
+                "InitRequests": false,
+                "PresetLevel": null,
+                "Protections": {
+                    "Pref_AudioFingerprint": true,
+                    "Pref_BatteryApi": true,
+                    "Pref_CanvasFingerprint": true,
+                    "Pref_ClientRects": true,
+                    "Pref_CommonTracking": false,
+                    "Pref_CookieEater": true,
+                    "Pref_ETagTrack": false,
+                    "Pref_GoogleHeader": true,
+                    "Pref_HardwareSpoof": true,
+                    "Pref_IPSpoof": false,
+                    "Pref_NativeFunctions": true,
+                    "Pref_NetworkInformation": false,
+                    "Pref_PingBlock": false,
+                    "Pref_PluginHide": false,
+                    "Pref_ReferHeader": true,
+                    "Pref_ScreenRes": true,
+                    "Pref_UserAgent": true,
+                    "Pref_WebGLFingerprint": true,
+                    "Pref_WebRTC": true
+                },
+                "SiteBlocked": false
+            },
+            "*gstatic.com*": {
+                "InitRequests": false,
+                "PresetLevel": null,
+                "Protections": {
+                    "Pref_AudioFingerprint": false,
+                    "Pref_BatteryApi": false,
+                    "Pref_CanvasFingerprint": false,
+                    "Pref_ClientRects": false,
+                    "Pref_CommonTracking": false,
+                    "Pref_CookieEater": false,
+                    "Pref_ETagTrack": false,
+                    "Pref_GoogleHeader": false,
+                    "Pref_HardwareSpoof": false,
+                    "Pref_IPSpoof": false,
+                    "Pref_NativeFunctions": false,
+                    "Pref_NetworkInformation": false,
+                    "Pref_PingBlock": false,
+                    "Pref_PluginHide": false,
+                    "Pref_ReferHeader": false,
+                    "Pref_ScreenRes": false,
+                    "Pref_UserAgent": true,
+                    "Pref_WebGLFingerprint": false,
+                    "Pref_WebRTC": false
+                },
+                "SiteBlocked": false
+            },
+            "*knowyourmeme.com*": {
+                "InitRequests": false,
+                "PresetLevel": null,
+                "Protections": {
+                    "Pref_AudioFingerprint": false,
+                    "Pref_BatteryApi": false,
+                    "Pref_CanvasFingerprint": false,
+                    "Pref_ClientRects": false,
+                    "Pref_CommonTracking": false,
+                    "Pref_CookieEater": false,
+                    "Pref_ETagTrack": false,
+                    "Pref_GoogleHeader": false,
+                    "Pref_HardwareSpoof": false,
+                    "Pref_IPSpoof": false,
+                    "Pref_NativeFunctions": false,
+                    "Pref_NetworkInformation": false,
+                    "Pref_PingBlock": false,
+                    "Pref_PluginHide": false,
+                    "Pref_ReferHeader": false,
+                    "Pref_ScreenRes": false,
+                    "Pref_UserAgent": true,
+                    "Pref_WebGLFingerprint": false,
+                    "Pref_WebRTC": false
+                },
+                "SiteBlocked": false
+            },
+            "*pcloud.com*": {
+                "InitRequests": false,
+                "PresetLevel": null,
+                "Protections": {
+                    "Pref_AudioFingerprint": false,
+                    "Pref_BatteryApi": false,
+                    "Pref_CanvasFingerprint": false,
+                    "Pref_ClientRects": false,
+                    "Pref_CommonTracking": false,
+                    "Pref_CookieEater": false,
+                    "Pref_ETagTrack": false,
+                    "Pref_GoogleHeader": false,
+                    "Pref_HardwareSpoof": false,
+                    "Pref_IPSpoof": false,
+                    "Pref_NativeFunctions": false,
+                    "Pref_NetworkInformation": false,
+                    "Pref_PingBlock": false,
+                    "Pref_PluginHide": false,
+                    "Pref_ReferHeader": false,
+                    "Pref_ScreenRes": false,
+                    "Pref_UserAgent": false,
+                    "Pref_WebGLFingerprint": false,
+                    "Pref_WebRTC": false
+                },
+                "SiteBlocked": false
+            },
+            "*plurk.com*": {
+                "InitRequests": false,
+                "PresetLevel": null,
+                "Protections": {
+                    "Pref_AudioFingerprint": true,
+                    "Pref_BatteryApi": true,
+                    "Pref_CanvasFingerprint": true,
+                    "Pref_ClientRects": true,
+                    "Pref_CommonTracking": false,
+                    "Pref_CookieEater": false,
+                    "Pref_ETagTrack": false,
+                    "Pref_GoogleHeader": true,
+                    "Pref_HardwareSpoof": true,
+                    "Pref_IPSpoof": false,
+                    "Pref_NativeFunctions": false,
+                    "Pref_NetworkInformation": false,
+                    "Pref_PingBlock": false,
+                    "Pref_PluginHide": false,
+                    "Pref_ReferHeader": false,
+                    "Pref_ScreenRes": true,
+                    "Pref_UserAgent": false,
+                    "Pref_WebGLFingerprint": true,
+                    "Pref_WebRTC": true
+                },
+                "SiteBlocked": false
+            },
+            "*primewire.*": {
+                "InitRequests": false,
+                "PresetLevel": null,
+                "Protections": {
+                    "Pref_AudioFingerprint": true,
+                    "Pref_BatteryApi": true,
+                    "Pref_CanvasFingerprint": true,
+                    "Pref_ClientRects": false,
+                    "Pref_CommonTracking": false,
+                    "Pref_CookieEater": false,
+                    "Pref_ETagTrack": false,
+                    "Pref_GoogleHeader": false,
+                    "Pref_HardwareSpoof": true,
+                    "Pref_IPSpoof": false,
+                    "Pref_NativeFunctions": false,
+                    "Pref_NetworkInformation": true,
+                    "Pref_PingBlock": false,
+                    "Pref_PluginHide": false,
+                    "Pref_ReferHeader": false,
+                    "Pref_ScreenRes": true,
+                    "Pref_UserAgent": true,
+                    "Pref_WebGLFingerprint": true,
+                    "Pref_WebRTC": true
+                },
+                "SiteBlocked": false
+            },
+            "*reddit.*": {
+                "InitRequests": false,
+                "PresetLevel": null,
+                "Protections": {
+                    "Pref_AudioFingerprint": true,
+                    "Pref_BatteryApi": true,
+                    "Pref_CanvasFingerprint": true,
+                    "Pref_ClientRects": false,
+                    "Pref_CommonTracking": false,
+                    "Pref_CookieEater": false,
+                    "Pref_ETagTrack": false,
+                    "Pref_GoogleHeader": false,
+                    "Pref_HardwareSpoof": true,
+                    "Pref_IPSpoof": false,
+                    "Pref_NativeFunctions": false,
+                    "Pref_NetworkInformation": false,
+                    "Pref_PingBlock": false,
+                    "Pref_PluginHide": false,
+                    "Pref_ReferHeader": false,
+                    "Pref_ScreenRes": true,
+                    "Pref_UserAgent": true,
+                    "Pref_WebGLFingerprint": true,
+                    "Pref_WebRTC": true
+                },
+                "SiteBlocked": false
+            },
+            "*snopyta.org*": {
+                "InitRequests": false,
+                "PresetLevel": null,
+                "Protections": {
+                    "Pref_AudioFingerprint": false,
+                    "Pref_BatteryApi": false,
+                    "Pref_CanvasFingerprint": false,
+                    "Pref_ClientRects": false,
+                    "Pref_CommonTracking": false,
+                    "Pref_CookieEater": false,
+                    "Pref_ETagTrack": false,
+                    "Pref_GoogleHeader": false,
+                    "Pref_HardwareSpoof": false,
+                    "Pref_IPSpoof": false,
+                    "Pref_NativeFunctions": false,
+                    "Pref_NetworkInformation": false,
+                    "Pref_PingBlock": false,
+                    "Pref_PluginHide": false,
+                    "Pref_ReferHeader": false,
+                    "Pref_ScreenRes": false,
+                    "Pref_UserAgent": false,
+                    "Pref_WebGLFingerprint": false,
+                    "Pref_WebRTC": false
+                },
+                "SiteBlocked": false
+            },
+            "*tumblr.com*": {
+                "InitRequests": false,
+                "PresetLevel": null,
+                "Protections": {
+                    "Pref_AudioFingerprint": false,
+                    "Pref_BatteryApi": false,
+                    "Pref_CanvasFingerprint": false,
+                    "Pref_ClientRects": false,
+                    "Pref_CommonTracking": false,
+                    "Pref_CookieEater": false,
+                    "Pref_ETagTrack": false,
+                    "Pref_GoogleHeader": false,
+                    "Pref_HardwareSpoof": false,
+                    "Pref_IPSpoof": false,
+                    "Pref_NativeFunctions": false,
+                    "Pref_NetworkInformation": false,
+                    "Pref_PingBlock": false,
+                    "Pref_PluginHide": false,
+                    "Pref_ReferHeader": false,
+                    "Pref_ScreenRes": false,
+                    "Pref_UserAgent": false,
+                    "Pref_WebGLFingerprint": false,
+                    "Pref_WebRTC": false
+                },
+                "SiteBlocked": false
+            },
+            "*vdo.ai*": {
+                "InitRequests": false,
+                "PresetLevel": null,
+                "Protections": {
+                    "Pref_AudioFingerprint": true,
+                    "Pref_BatteryApi": true,
+                    "Pref_CanvasFingerprint": true,
+                    "Pref_ClientRects": true,
+                    "Pref_CommonTracking": true,
+                    "Pref_CookieEater": true,
+                    "Pref_ETagTrack": true,
+                    "Pref_GoogleHeader": true,
+                    "Pref_HardwareSpoof": true,
+                    "Pref_IPSpoof": true,
+                    "Pref_NativeFunctions": true,
+                    "Pref_NetworkInformation": true,
+                    "Pref_PingBlock": true,
+                    "Pref_PluginHide": true,
+                    "Pref_ReferHeader": true,
+                    "Pref_ScreenRes": true,
+                    "Pref_UserAgent": false,
+                    "Pref_WebGLFingerprint": true,
+                    "Pref_WebRTC": true
+                },
+                "SiteBlocked": false
+            },
+            "*wcostream.*": {
+                "InitRequests": false,
+                "PresetLevel": null,
+                "Protections": {
+                    "Pref_AudioFingerprint": true,
+                    "Pref_BatteryApi": true,
+                    "Pref_CanvasFingerprint": true,
+                    "Pref_ClientRects": false,
+                    "Pref_CommonTracking": false,
+                    "Pref_CookieEater": false,
+                    "Pref_ETagTrack": false,
+                    "Pref_GoogleHeader": false,
+                    "Pref_HardwareSpoof": true,
+                    "Pref_IPSpoof": false,
+                    "Pref_NativeFunctions": false,
+                    "Pref_NetworkInformation": true,
+                    "Pref_PingBlock": false,
+                    "Pref_PluginHide": false,
+                    "Pref_ReferHeader": false,
+                    "Pref_ScreenRes": true,
+                    "Pref_UserAgent": true,
+                    "Pref_WebGLFingerprint": true,
+                    "Pref_WebRTC": true
+                },
+                "SiteBlocked": false
+            },
+            "*wiki*.org*/*": {
+                "InitRequests": false,
+                "PresetLevel": null,
+                "Protections": {
+                    "Pref_AudioFingerprint": true,
+                    "Pref_BatteryApi": true,
+                    "Pref_CanvasFingerprint": true,
+                    "Pref_ClientRects": false,
+                    "Pref_CommonTracking": false,
+                    "Pref_CookieEater": false,
+                    "Pref_ETagTrack": false,
+                    "Pref_GoogleHeader": false,
+                    "Pref_HardwareSpoof": true,
+                    "Pref_IPSpoof": false,
+                    "Pref_NativeFunctions": false,
+                    "Pref_NetworkInformation": false,
+                    "Pref_PingBlock": false,
+                    "Pref_PluginHide": false,
+                    "Pref_ReferHeader": false,
+                    "Pref_ScreenRes": true,
+                    "Pref_UserAgent": true,
+                    "Pref_WebGLFingerprint": true,
+                    "Pref_WebRTC": true
+                },
+                "SiteBlocked": false
+            },
+            "*wikitree.com*": {
+                "InitRequests": true,
+                "PresetLevel": null,
+                "Protections": {
+                    "Pref_AudioFingerprint": true,
+                    "Pref_BatteryApi": true,
+                    "Pref_CanvasFingerprint": true,
+                    "Pref_ClientRects": true,
+                    "Pref_CommonTracking": true,
+                    "Pref_CookieEater": false,
+                    "Pref_ETagTrack": false,
+                    "Pref_GoogleHeader": false,
+                    "Pref_HardwareSpoof": true,
+                    "Pref_IPSpoof": false,
+                    "Pref_NativeFunctions": false,
+                    "Pref_NetworkInformation": false,
+                    "Pref_PingBlock": false,
+                    "Pref_PluginHide": false,
+                    "Pref_ReferHeader": false,
+                    "Pref_ScreenRes": true,
+                    "Pref_UserAgent": true,
+                    "Pref_WebGLFingerprint": true,
+                    "Pref_WebRTC": true
+                },
+                "SiteBlocked": false
+            }
+        },
+        "Main_Simple": {
+            "enabled": false,
+            "presets": {
+                "enabled": false,
+                "global": 2
+            }
+        },
+        "Main_Trace": {
+            "AdvancedUi": {
+                "enabled": false
+            },
+            "BrowserNotifications": {
+                "enabled": false
+            },
+            "DebugApp": {
+                "enabled": false
+            },
+            "DomainCache": {
+                "enabled": true
+            },
+            "ErrorReporting": {
+                "enabled": true
+            },
+            "KeyboardCommand": {
+                "enabled": false
+            },
+            "PremiumCode": "not-for-you-github-lurker",
+            "ProtectionSessions": {
+                "affects": [],
+                "enabled": true
+            },
+            "ProtectionStats": {
+                "enabled": true
+            },
+            "TabStats": {
+                "enabled": true
+            }
+        },
+        "Pref_AudioFingerprint": {
+            "audioBuffer": {
+                "enabled": true
+            },
+            "audioData": {
+                "enabled": true
+            },
+            "audioMain": {
+                "enabled": true
+            },
+            "audioOfflineMain": {
+                "enabled": true
+            },
+            "enabled": true
+        },
+        "Pref_BatteryApi": {
+            "enabled": true
+        },
+        "Pref_CanvasFingerprint": {
+            "customRGBA": {
+                "enabled": false,
+                "rgba": [
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "enabled": true
+        },
+        "Pref_ClientRects": {
+            "element": {
+                "getboundingclientrects": {
+                    "enabled": true
+                },
+                "getclientrects": {
+                    "enabled": true
+                }
+            },
+            "enabled": true,
+            "range": {
+                "getboundingclientrects": {
+                    "enabled": true
+                },
+                "getclientrects": {
+                    "enabled": true
+                }
+            }
+        },
+        "Pref_CommonTracking": {
+            "enabled": false,
+            "settings": {
+                "countly": {
+                    "enabled": false
+                },
+                "fbevents": {
+                    "enabled": true
+                },
+                "google": {
+                    "enabled": true
+                },
+                "piwik": {
+                    "enabled": false
+                },
+                "segment": {
+                    "enabled": false
+                }
+            }
+        },
+        "Pref_CookieEater": {
+            "enabled": true,
+            "list": {
+                "1P_JAR": true,
+                "GoogleAdServingTest": true,
+                "S_adsense3-ui": true,
+                "__cfduid": false,
+                "__mmapiwsid": true,
+                "__utma": true,
+                "__utmc": true,
+                "__utmz": true,
+                "_chartbeat2": true,
+                "_ga": true,
+                "_v__chartbeat3": true,
+                "_vwo_uuid_": true,
+                "_vwo_uuid_v2": true,
+                "ads_prefs": true,
+                "external_referer": false,
+                "personalization_id": true
+            },
+            "settings": {
+                "cookie": {
+                    "enabled": false,
+                    "fp_level": 1,
+                    "fp_method": "nothing",
+                    "tp_level": 1,
+                    "tp_method": "remove"
+                },
+                "setcookie": {
+                    "enabled": true,
+                    "fp_level": 1,
+                    "fp_method": "nothing",
+                    "tp_level": 1,
+                    "tp_method": "remove"
+                }
+            }
+        },
+        "Pref_ETagTrack": {
+            "enabled": true
+        },
+        "Pref_FontFingerprint": {
+            "enabled": false,
+            "measureText": {
+                "enabled": true
+            }
+        },
+        "Pref_GoogleHeader": {
+            "enabled": true,
+            "rmChromeConnected": {
+                "enabled": true
+            },
+            "rmChromeUMA": {
+                "enabled": true
+            },
+            "rmChromeVariations": {
+                "enabled": true
+            },
+            "rmClientData": {
+                "enabled": true
+            }
+        },
+        "Pref_HardwareSpoof": {
+            "enabled": true,
+            "hardware": {
+                "deviceMemory": {
+                    "enabled": true,
+                    "value": 4
+                },
+                "enabled": true,
+                "hardwareConcurrency": {
+                    "enabled": true,
+                    "value": 4
+                },
+                "hwGamepads": {
+                    "enabled": true
+                },
+                "hwVrDisplays": {
+                    "enabled": true
+                }
+            }
+        },
+        "Pref_IPSpoof": {
+            "enabled": false,
+            "traceIP": {
+                "enabled": true,
+                "user_set": ""
+            },
+            "traceVia": {
+                "enabled": true,
+                "value": "Proxy"
+            },
+            "useClientIP": {
+                "enabled": true
+            },
+            "useForwardedFor": {
+                "enabled": true
+            }
+        },
+        "Pref_NativeFunctions": {
+            "enabled": true,
+            "windowOpen": {
+                "enabled": true
+            }
+        },
+        "Pref_NetworkInformation": {
+            "customNet": {
+                "enabled": false,
+                "info": {
+                    "downlink": 7.5,
+                    "effectiveType": "4g",
+                    "onchange": null,
+                    "rtt": 100
+                }
+            },
+            "enabled": true
+        },
+        "Pref_PingBlock": {
+            "enabled": true,
+            "pingRequest": {
+                "enabled": true
+            },
+            "removePingAttr": {
+                "enabled": true
+            },
+            "sendBeacon": {
+                "enabled": true
+            }
+        },
+        "Pref_PluginHide": {
+            "enabled": true
+        },
+        "Pref_ReferHeader": {
+            "enabled": true,
+            "httpHeader": {
+                "allowSameDomain": {
+                    "enabled": true,
+                    "fullUrl": false
+                },
+                "allowSameHost": {
+                    "enabled": true,
+                    "fullUrl": true
+                },
+                "allowThirdParty": {
+                    "enabled": false,
+                    "fullUrl": false
+                },
+                "onlySecureOrigins": {
+                    "enabled": true
+                }
+            },
+            "jsVariable": {
+                "enabled": true,
+                "method": "remove"
+            }
+        },
+        "Pref_ScreenRes": {
+            "commonResolutions": {
+                "enabled": true,
+                "resolutions": [
+                    [
+                        1024,
+                        768,
+                        24
+                    ],
+                    [
+                        1280,
+                        720,
+                        24
+                    ],
+                    [
+                        1280,
+                        800,
+                        24
+                    ],
+                    [
+                        1280,
+                        1024,
+                        24
+                    ],
+                    [
+                        1360,
+                        768,
+                        24
+                    ],
+                    [
+                        1366,
+                        768,
+                        24
+                    ],
+                    [
+                        1440,
+                        900,
+                        24
+                    ],
+                    [
+                        1600,
+                        900,
+                        24
+                    ]
+                ]
+            },
+            "enabled": true,
+            "modifyDepths": {
+                "enabled": false,
+                "values": [
+                    16,
+                    24,
+                    32
+                ]
+            },
+            "modifyPixelRatio": {
+                "enabled": false
+            },
+            "randomOpts": {
+                "enabled": false,
+                "values": [
+                    -50,
+                    50
+                ]
+            }
+        },
+        "Pref_UserAgent": {
+            "enabled": true,
+            "uaCust": {
+                "customUAs": [],
+                "enabled": false,
+                "onlyCust": false
+            },
+            "uaOSConfig": {
+                "AllowLinux": {
+                    "enabled": true
+                },
+                "AllowMac": {
+                    "enabled": true
+                },
+                "AllowWindows": {
+                    "enabled": true
+                }
+            },
+            "uaWBConfig": {
+                "AllowChrome": {
+                    "enabled": true
+                },
+                "AllowEdge": {
+                    "enabled": true
+                },
+                "AllowFirefox": {
+                    "enabled": true
+                },
+                "AllowOpera": {
+                    "enabled": true
+                },
+                "AllowSafari": {
+                    "enabled": true
+                },
+                "AllowVivaldi": {
+                    "enabled": false
+                }
+            }
+        },
+        "Pref_WebController": {
+            "enabled": true,
+            "installCodes": {
+                "a00000000": true,
+                "a00000001": true,
+                "a00000002": true,
+                "a00000003": true,
+                "a00000005": true,
+                "a00000006": true,
+                "a00000007": true,
+                "a00000008": true
+            },
+            "lastRequest": 1551633680,
+            "showBlocked": {
+                "enabled": true
+            },
+            "tld": {
+                "enabled": false,
+                "settings": {
+                    "accountant": true,
+                    "ads": true,
+                    "asia": true,
+                    "bid": true,
+                    "cc": true,
+                    "cf": true,
+                    "christmas": true,
+                    "click": true,
+                    "club": true,
+                    "country": true,
+                    "cricket": true,
+                    "date": true,
+                    "diet": true,
+                    "download": true,
+                    "faith": true,
+                    "gdn": true,
+                    "gq": true,
+                    "icu": true,
+                    "jetzt": true,
+                    "kim": true,
+                    "link": true,
+                    "loan": true,
+                    "market": true,
+                    "men": true,
+                    "mom": true,
+                    "om": true,
+                    "online": true,
+                    "party": true,
+                    "pro": true,
+                    "racing": true,
+                    "ren": true,
+                    "review": true,
+                    "science": true,
+                    "space": true,
+                    "stream": true,
+                    "study": true,
+                    "systems": true,
+                    "top": true,
+                    "trade": true,
+                    "vip": true,
+                    "wang": true,
+                    "webcam": true,
+                    "win": true,
+                    "work": true,
+                    "xin": true,
+                    "yokohama": true,
+                    "zip": true
+                }
+            },
+            "urlCleaner": {
+                "enabled": true,
+                "fragmentHash": {
+                    "enabled": false
+                },
+                "queryString": {
+                    "enabled": true,
+                    "main_frame": {
+                        "method": "removeall"
+                    },
+                    "params": {
+                        "AdID": true,
+                        "AffiliateGuid": true,
+                        "CampaignID": true,
+                        "ImpressionGuid": true,
+                        "_reqid": true,
+                        "_trkparms": true,
+                        "ad_bucket": true,
+                        "ad_size": true,
+                        "ad_slot": true,
+                        "ad_type": true,
+                        "adid": true,
+                        "adserverid": true,
+                        "adserveroptimizerid": true,
+                        "adtype": true,
+                        "adurl": true,
+                        "affiliate": true,
+                        "bdref": true,
+                        "bstk": true,
+                        "campaignid": true,
+                        "clickid": true,
+                        "clkurlenc": true,
+                        "data": true,
+                        "dclid": true,
+                        "documentref": true,
+                        "exitPop": true,
+                        "fb": true,
+                        "fb_ref": true,
+                        "fb_source": true,
+                        "first_visit": true,
+                        "flash": true,
+                        "ga_campaign": true,
+                        "ga_content": true,
+                        "ga_fc": true,
+                        "ga_hid": true,
+                        "ga_medium": true,
+                        "ga_place": true,
+                        "ga_sid": true,
+                        "ga_source": true,
+                        "ga_term": true,
+                        "ga_vid": true,
+                        "matchid": true,
+                        "mediadataid": true,
+                        "minbid": true,
+                        "num_ads": true,
+                        "origin": true,
+                        "page_referrer": true,
+                        "payload": true,
+                        "piggiebackcookie": true,
+                        "pk_campaign": true,
+                        "providerid": true,
+                        "pubclick": true,
+                        "pubid": true,
+                        "referrer": true,
+                        "reftype": true,
+                        "rev": true,
+                        "revmod": true,
+                        "rurl": true,
+                        "site": true,
+                        "siteid": true,
+                        "sourceid": true,
+                        "tldid": true,
+                        "trackId": true,
+                        "tracking": true,
+                        "uid": true,
+                        "usegapi": true,
+                        "utm_campaign": true,
+                        "utm_cid": true,
+                        "utm_content": true,
+                        "utm_medium": true,
+                        "utm_name": true,
+                        "utm_reader": true,
+                        "utm_source": true,
+                        "utm_term": true,
+                        "zoneid": true
+                    },
+                    "resources": {
+                        "method": "remove"
+                    }
+                }
+            },
+            "useLocal": {
+                "enabled": true
+            }
+        },
+        "Pref_WebGLFingerprint": {
+            "enabled": true,
+            "gpuList": {
+                "enabled": true,
+                "list": []
+            },
+            "parameters": {
+                "enabled": true,
+                "list": {
+                    "ALPHA_BITS": 3,
+                    "BLUE_BITS": 3,
+                    "GREEN_BITS": 3,
+                    "MAX_CUBE_MAP_TEXTURE_SIZE": 14,
+                    "MAX_RENDERBUFFER_SIZE": 14,
+                    "MAX_TEXTURE_IMAGE_UNITS": 4,
+                    "MAX_TEXTURE_SIZE": 13,
+                    "MAX_VERTEX_ATTRIBS": 4,
+                    "MAX_VERTEX_TEXTURE_IMAGE_UNITS": 4,
+                    "MAX_VERTEX_UNIFORM_VECTORS": 12,
+                    "MAX_VIEWPORT_DIMS": 14,
+                    "RED_BITS": 3,
+                    "STENCIL_BITS": 3
+                }
+            }
+        },
+        "Pref_WebRTC": {
+            "deviceEnumeration": {
+                "enabled": true
+            },
+            "enabled": true,
+            "wrtcDataChannel": {
+                "enabled": true
+            },
+            "wrtcInternal": {
+                "enabled": true
+            },
+            "wrtcPeerConnection": {
+                "enabled": true
+            },
+            "wrtcRtpReceiver": {
+                "enabled": true
+            }
+        },
+        "stats_db": {
+            "2019-09-11": {
+                "code": 62,
+                "media": 8,
+                "other": 0,
+                "webpage": 0
+            },
+            "2019-09-12": {
+                "code": 260,
+                "media": 22,
+                "other": 0,
+                "webpage": 0
+            },
+            "2019-09-13": {
+                "code": 417,
+                "media": 93,
+                "other": 8,
+                "webpage": 2
+            },
+            "2019-09-14": {
+                "code": 195,
+                "media": 41,
+                "other": 0,
+                "webpage": 2
+            },
+            "2019-09-15": {
+                "code": 6,
+                "media": 0,
+                "other": 0,
+                "webpage": 0
+            },
+            "2019-09-16": {
+                "code": 27,
+                "media": 0,
+                "other": 0,
+                "webpage": 0
+            },
+            "2019-09-18": {
+                "code": 69,
+                "media": 0,
+                "other": 0,
+                "webpage": 0
+            },
+            "2019-09-19": {
+                "code": 249,
+                "media": 5,
+                "other": 5,
+                "webpage": 0
+            },
+            "2019-09-21": {
+                "code": 48,
+                "media": 0,
+                "other": 22,
+                "webpage": 0
+            },
+            "2019-09-22": {
+                "code": 56,
+                "media": 0,
+                "other": 23,
+                "webpage": 0
+            },
+            "2019-09-25": {
+                "code": 99,
+                "media": 4,
+                "other": 0,
+                "webpage": 0
+            },
+            "2019-09-27": {
+                "code": 205,
+                "media": 12,
+                "other": 1,
+                "webpage": 0
+            },
+            "2019-09-29": {
+                "code": 695,
+                "media": 4,
+                "other": 1,
+                "webpage": 1
+            },
+            "2019-09-30": {
+                "code": 101,
+                "media": 3,
+                "other": 0,
+                "webpage": 1
+            },
+            "2019-10-01": {
+                "code": 186,
+                "media": 4,
+                "other": 0,
+                "webpage": 0
+            },
+            "2019-10-03": {
+                "code": 33,
+                "media": 0,
+                "other": 0,
+                "webpage": 0
+            },
+            "2019-10-05": {
+                "code": 385,
+                "media": 0,
+                "other": 0,
+                "webpage": 0
+            },
+            "2019-10-06": {
+                "code": 57,
+                "media": 2,
+                "other": 0,
+                "webpage": 2
+            },
+            "2019-11-12": {
+                "code": 36,
+                "media": 3,
+                "other": 3,
+                "webpage": 2
+            },
+            "2019-12-27": {
+                "code": 535,
+                "media": 25,
+                "other": 88,
+                "webpage": 68
+            },
+            "2019-12-28": {
+                "code": 2483,
+                "media": 77,
+                "other": 1174,
+                "webpage": 891
+            },
+            "2019-12-29": {
+                "code": 1294,
+                "media": 15,
+                "other": 559,
+                "webpage": 421
+            },
+            "2019-12-30": {
+                "code": 940,
+                "media": 99,
+                "other": 56,
+                "webpage": 30
+            },
+            "2019-12-31": {
+                "code": 666,
+                "media": 182,
+                "other": 115,
+                "webpage": 90
+            },
+            "2020-01-01": {
+                "code": 593,
+                "media": 160,
+                "other": 114,
+                "webpage": 129
+            },
+            "2020-01-02": {
+                "code": 723,
+                "media": 47,
+                "other": 138,
+                "webpage": 1
+            },
+            "2020-01-03": {
+                "code": 512,
+                "media": 15,
+                "other": 130,
+                "webpage": 16
+            },
+            "2020-01-04": {
+                "code": 340,
+                "media": 8,
+                "other": 39,
+                "webpage": 20
+            },
+            "2020-01-05": {
+                "code": 682,
+                "media": 54,
+                "other": 30,
+                "webpage": 8
+            },
+            "2020-01-06": {
+                "code": 542,
+                "media": 53,
+                "other": 113,
+                "webpage": 43
+            },
+            "2020-01-07": {
+                "code": 746,
+                "media": 35,
+                "other": 252,
+                "webpage": 82
+            },
+            "2020-01-08": {
+                "code": 736,
+                "media": 110,
+                "other": 51,
+                "webpage": 1
+            },
+            "2020-01-09": {
+                "code": 754,
+                "media": 0,
+                "other": 81,
+                "webpage": 0
+            },
+            "2020-01-10": {
+                "code": 868,
+                "media": 41,
+                "other": 177,
+                "webpage": 1
+            },
+            "2020-01-11": {
+                "code": 858,
+                "media": 101,
+                "other": 44,
+                "webpage": 3
+            },
+            "2020-01-12": {
+                "code": 1333,
+                "media": 142,
+                "other": 196,
+                "webpage": 20
+            },
+            "2020-01-13": {
+                "code": 1114,
+                "media": 98,
+                "other": 75,
+                "webpage": 10
+            },
+            "2020-01-14": {
+                "code": 1081,
+                "media": 64,
+                "other": 142,
+                "webpage": 4
+            },
+            "2020-01-15": {
+                "code": 1097,
+                "media": 108,
+                "other": 144,
+                "webpage": 2
+            },
+            "2020-01-16": {
+                "code": 958,
+                "media": 42,
+                "other": 105,
+                "webpage": 1
+            },
+            "2020-01-17": {
+                "code": 1332,
+                "media": 51,
+                "other": 106,
+                "webpage": 1
+            },
+            "2020-01-18": {
+                "code": 1276,
+                "media": 173,
+                "other": 136,
+                "webpage": 63
+            },
+            "2020-01-19": {
+                "code": 873,
+                "media": 2,
+                "other": 3,
+                "webpage": 1
+            },
+            "2020-01-20": {
+                "code": 808,
+                "media": 37,
+                "other": 109,
+                "webpage": 54
+            },
+            "2020-01-21": {
+                "code": 1089,
+                "media": 161,
+                "other": 150,
+                "webpage": 88
+            },
+            "2020-01-22": {
+                "code": 809,
+                "media": 8,
+                "other": 73,
+                "webpage": 35
+            },
+            "2020-01-23": {
+                "code": 1044,
+                "media": 37,
+                "other": 50,
+                "webpage": 1
+            },
+            "2020-01-24": {
+                "code": 1338,
+                "media": 18,
+                "other": 79,
+                "webpage": 2
+            },
+            "2020-01-25": {
+                "code": 1481,
+                "media": 28,
+                "other": 80,
+                "webpage": 5
+            },
+            "2020-01-26": {
+                "code": 1073,
+                "media": 46,
+                "other": 120,
+                "webpage": 5
+            },
+            "2020-01-27": {
+                "code": 1518,
+                "media": 50,
+                "other": 151,
+                "webpage": 2
+            },
+            "2020-01-28": {
+                "code": 1629,
+                "media": 12,
+                "other": 54,
+                "webpage": 3
+            },
+            "2020-01-29": {
+                "code": 339,
+                "media": 2,
+                "other": 2,
+                "webpage": 0
+            },
+            "2020-01-31": {
+                "code": 430,
+                "media": 5,
+                "other": 36,
+                "webpage": 0
+            },
+            "2020-02-01": {
+                "code": 1562,
+                "media": 61,
+                "other": 48,
+                "webpage": 2
+            },
+            "2020-02-02": {
+                "code": 854,
+                "media": 74,
+                "other": 26,
+                "webpage": 14
+            },
+            "2020-02-03": {
+                "code": 1302,
+                "media": 76,
+                "other": 1,
+                "webpage": 7
+            },
+            "2020-02-04": {
+                "code": 1083,
+                "media": 58,
+                "other": 7,
+                "webpage": 3
+            },
+            "2020-02-05": {
+                "code": 640,
+                "media": 27,
+                "other": 59,
+                "webpage": 6
+            },
+            "2020-02-06": {
+                "code": 1267,
+                "media": 28,
+                "other": 68,
+                "webpage": 0
+            },
+            "2020-02-07": {
+                "code": 783,
+                "media": 17,
+                "other": 82,
+                "webpage": 0
+            },
+            "2020-02-08": {
+                "code": 522,
+                "media": 4,
+                "other": 5,
+                "webpage": 3
+            },
+            "2020-02-09": {
+                "code": 1319,
+                "media": 45,
+                "other": 214,
+                "webpage": 0
+            },
+            "2020-02-10": {
+                "code": 990,
+                "media": 15,
+                "other": 151,
+                "webpage": 30
+            },
+            "2020-02-11": {
+                "code": 228,
+                "media": 23,
+                "other": 0,
+                "webpage": 8
+            },
+            "2020-02-15": {
+                "code": 543,
+                "media": 4,
+                "other": 2,
+                "webpage": 1
+            },
+            "2020-02-16": {
+                "code": 1333,
+                "media": 25,
+                "other": 91,
+                "webpage": 2
+            },
+            "2020-02-17": {
+                "code": 593,
+                "media": 8,
+                "other": 0,
+                "webpage": 0
+            },
+            "2020-02-19": {
+                "code": 400,
+                "media": 88,
+                "other": 109,
+                "webpage": 0
+            },
+            "2020-02-20": {
+                "code": 708,
+                "media": 20,
+                "other": 185,
+                "webpage": 3
+            },
+            "2020-02-21": {
+                "code": 1248,
+                "media": 35,
+                "other": 150,
+                "webpage": 7
+            },
+            "2020-02-22": {
+                "code": 776,
+                "media": 24,
+                "other": 176,
+                "webpage": 1
+            },
+            "2020-02-23": {
+                "code": 904,
+                "media": 59,
+                "other": 107,
+                "webpage": 0
+            },
+            "2020-02-24": {
+                "code": 1848,
+                "media": 38,
+                "other": 12,
+                "webpage": 4
+            },
+            "2020-02-25": {
+                "code": 891,
+                "media": 6,
+                "other": 1,
+                "webpage": 6
+            },
+            "2020-02-26": {
+                "code": 788,
+                "media": 33,
+                "other": 24,
+                "webpage": 5
+            },
+            "2020-02-27": {
+                "code": 2663,
+                "media": 39,
+                "other": 32,
+                "webpage": 12
+            },
+            "2020-02-28": {
+                "code": 1985,
+                "media": 25,
+                "other": 8,
+                "webpage": 7
+            },
+            "2020-02-29": {
+                "code": 1825,
+                "media": 88,
+                "other": 1060,
+                "webpage": 10
+            },
+            "2020-03-01": {
+                "code": 1177,
+                "media": 12,
+                "other": 14,
+                "webpage": 5
+            },
+            "2020-03-02": {
+                "code": 622,
+                "media": 39,
+                "other": 2,
+                "webpage": 1
+            },
+            "2020-03-03": {
+                "code": 684,
+                "media": 26,
+                "other": 15,
+                "webpage": 6
+            },
+            "2020-03-04": {
+                "code": 584,
+                "media": 19,
+                "other": 294,
+                "webpage": 1
+            },
+            "2020-03-05": {
+                "code": 1514,
+                "media": 32,
+                "other": 100,
+                "webpage": 7
+            },
+            "2020-03-06": {
+                "code": 1182,
+                "media": 11,
+                "other": 1,
+                "webpage": 3
+            },
+            "2020-03-07": {
+                "code": 517,
+                "media": 35,
+                "other": 0,
+                "webpage": 0
+            },
+            "2020-03-08": {
+                "code": 807,
+                "media": 17,
+                "other": 6,
+                "webpage": 0
+            },
+            "2020-03-09": {
+                "code": 401,
+                "media": 1,
+                "other": 14,
+                "webpage": 1
+            },
+            "2020-03-10": {
+                "code": 487,
+                "media": 64,
+                "other": 0,
+                "webpage": 0
+            },
+            "2020-03-11": {
+                "code": 163,
+                "media": 4,
+                "other": 2,
+                "webpage": 1
+            },
+            "2020-03-12": {
+                "code": 301,
+                "media": 0,
+                "other": 0,
+                "webpage": 1
+            },
+            "2020-03-13": {
+                "code": 526,
+                "media": 37,
+                "other": 11,
+                "webpage": 4
+            },
+            "2020-03-14": {
+                "code": 190,
+                "media": 0,
+                "other": 0,
+                "webpage": 2
+            },
+            "2020-03-15": {
+                "code": 503,
+                "media": 10,
+                "other": 0,
+                "webpage": 2
+            },
+            "2020-03-16": {
+                "code": 313,
+                "media": 1,
+                "other": 5,
+                "webpage": 1
+            },
+            "2020-03-17": {
+                "code": 449,
+                "media": 6,
+                "other": 3,
+                "webpage": 2
+            },
+            "2020-03-18": {
+                "code": 238,
+                "media": 0,
+                "other": 0,
+                "webpage": 2
+            },
+            "2020-03-19": {
+                "code": 895,
+                "media": 2,
+                "other": 0,
+                "webpage": 0
+            },
+            "2020-03-20": {
+                "code": 313,
+                "media": 10,
+                "other": 2,
+                "webpage": 0
+            },
+            "2020-03-22": {
+                "code": 528,
+                "media": 0,
+                "other": 0,
+                "webpage": 0
+            },
+            "2020-03-23": {
+                "code": 439,
+                "media": 46,
+                "other": 2,
+                "webpage": 0
+            },
+            "2020-03-24": {
+                "code": 760,
+                "media": 43,
+                "other": 7,
+                "webpage": 2
+            },
+            "2020-03-25": {
+                "code": 693,
+                "media": 39,
+                "other": 33,
+                "webpage": 1
+            },
+            "2020-03-26": {
+                "code": 853,
+                "media": 27,
+                "other": 0,
+                "webpage": 0
+            },
+            "2020-03-27": {
+                "code": 585,
+                "media": 11,
+                "other": 160,
+                "webpage": 4
+            },
+            "2020-03-28": {
+                "code": 349,
+                "media": 38,
+                "other": 4,
+                "webpage": 1
+            },
+            "2020-03-29": {
+                "code": 301,
+                "media": 0,
+                "other": 0,
+                "webpage": 0
+            },
+            "2020-03-30": {
+                "code": 589,
+                "media": 0,
+                "other": 1,
+                "webpage": 1
+            },
+            "2020-03-31": {
+                "code": 683,
+                "media": 22,
+                "other": 191,
+                "webpage": 1
+            },
+            "2020-04-01": {
+                "code": 984,
+                "media": 79,
+                "other": 1,
+                "webpage": 2
+            },
+            "2020-04-05": {
+                "code": 781,
+                "media": 76,
+                "other": 6,
+                "webpage": 1
+            },
+            "2020-04-06": {
+                "code": 269,
+                "media": 15,
+                "other": 4,
+                "webpage": 13
+            },
+            "2020-04-08": {
+                "code": 230,
+                "media": 14,
+                "other": 3,
+                "webpage": 15
+            },
+            "2020-04-10": {
+                "code": 180,
+                "media": 0,
+                "other": 0,
+                "webpage": 0
+            },
+            "2020-04-11": {
+                "code": 435,
+                "media": 35,
+                "other": 36,
+                "webpage": 6
+            },
+            "2020-04-12": {
+                "code": 544,
+                "media": 0,
+                "other": 0,
+                "webpage": 0
+            },
+            "2020-04-13": {
+                "code": 48,
+                "media": 6,
+                "other": 1,
+                "webpage": 0
+            },
+            "2020-04-14": {
+                "code": 57,
+                "media": 11,
+                "other": 1,
+                "webpage": 1
+            },
+            "2020-04-18": {
+                "code": 44,
+                "media": 1,
+                "other": 4,
+                "webpage": 0
+            },
+            "2020-04-22": {
+                "code": 110,
+                "media": 14,
+                "other": 0,
+                "webpage": 0
+            },
+            "2020-04-23": {
+                "code": 658,
+                "media": 25,
+                "other": 2,
+                "webpage": 2
+            },
+            "2020-04-24": {
+                "code": 277,
+                "media": 36,
+                "other": 0,
+                "webpage": 0
+            },
+            "2020-04-25": {
+                "code": 466,
+                "media": 55,
+                "other": 6,
+                "webpage": 8
+            },
+            "2020-04-26": {
+                "code": 180,
+                "media": 2,
+                "other": 0,
+                "webpage": 0
+            }
+        },
+        "stats_main": {
+            "code": 87044,
+            "media": 4148,
+            "other": 8584,
+            "total": 102115,
+            "webpage": 2339
+        },
+        "trace_installdate": "2019-09-11",
+        "tracenewprefs": true
+    }
+}

@@ -1,0 +1,1009 @@
+{
+    "blacklist": {
+        "chatango.com": true,
+        "dreamwidth.org": true,
+        "fastly.net": true,
+        "hwcdn.net": true,
+        "imgur.com": true,
+        "invidious.snopyta.org": true,
+        "katfile.com": true,
+        "knowyourmeme.com": true,
+        "kym-cdn.com": true,
+        "last.fm": true,
+        "lifeextension.com": true,
+        "redd.it": true,
+        "reddit.com": true,
+        "smartertravel.com": true,
+        "v.redd.it": true,
+        "vdo.ai": true,
+        "vidup.io/static/incontent/videos/": true,
+        "watch.redd.it": true,
+        "yewtu.be": true,
+        "youtube.com": true,
+        "zdassets.com": true
+    },
+    "license": null,
+    "conversionRules": [],
+    "outputConfigs": {
+        "05cb6b27-9167-4d83-833d-218a107d0376": {
+            "audioonly": true,
+            "ext": "mp3",
+            "extra": null,
+            "params": {
+                "b:a": "256k",
+                "c:a": "mp3",
+                "f": "mp3"
+            },
+            "readonly": true,
+            "title": "MP3 HQ"
+        },
+        "0b6280d3-f8f2-4cb6-8235-a5a4b91488f7": {
+            "audioonly": false,
+            "ext": "avi",
+            "extra": null,
+            "params": {
+                "b:a": "128k",
+                "b:v": "2000k",
+                "c:a": "mp3",
+                "c:v": "mpeg4",
+                "f": "avi"
+            },
+            "readonly": true,
+            "title": "AVI 2Mb (mpeg4/mp3)"
+        },
+        "16044db3-3b75-4155-b549-c0ba19c18887": {
+            "audioonly": false,
+            "ext": "mp4",
+            "extra": "-mbd rd -flags +mv4+aic -trellis 2 -cmp 2 -subcmp 2 -g 300",
+            "params": {
+                "ac": 2,
+                "b:a": "128k",
+                "b:v": "1000k",
+                "c:a": "aac",
+                "c:v": "mpeg4",
+                "f": "mp4"
+            },
+            "readonly": true,
+            "title": "MP4 1Mb"
+        },
+        "21a19146-e116-4460-8356-a8eab9cf61ce": {
+            "audioonly": false,
+            "ext": "wmv",
+            "extra": null,
+            "params": {
+                "b:v": "1000k",
+                "c:a": "wmav2",
+                "c:v": "wmv2",
+                "f": "asf"
+            },
+            "readonly": true,
+            "title": "WMV 1Mb (Windows Media Player)"
+        },
+        "2416dcbf-146d-4ca4-b948-f6f702fb043c": {
+            "audioonly": false,
+            "ext": "m4v",
+            "extra": null,
+            "params": {
+                "b:a": "128k",
+                "b:v": "500k",
+                "c:a": "aac",
+                "c:v": "mpeg4",
+                "f": "mp4",
+                "r": "24",
+                "s": "320x240"
+            },
+            "readonly": true,
+            "title": "iPod"
+        },
+        "249a7d34-3640-4ac3-8300-13827811d2cf": {
+            "audioonly": false,
+            "ext": "mpg",
+            "extra": "-mbd rd -trellis 2 -cmp 2 -subcmp 2 -g 100",
+            "params": {
+                "c:a": "mp2",
+                "c:v": "mpeg1video",
+                "f": "mpeg",
+                "r": 24
+            },
+            "readonly": true,
+            "title": "MPEG (mpeg1+mp2)"
+        },
+        "3a4cc0a6-6eb0-4cff-90fb-fdf8eb6a9571": {
+            "audioonly": false,
+            "ext": "avi",
+            "extra": null,
+            "params": {
+                "b:a": "128k",
+                "b:v": "500k",
+                "c:a": "mp3",
+                "c:v": "mpeg4",
+                "f": "avi"
+            },
+            "readonly": true,
+            "title": "AVI 500Kb (mpeg4/mp3)"
+        },
+        "4174b9dd-c2a0-409d-801d-c84f96be0b76": {
+            "audioonly": true,
+            "ext": "mp3",
+            "extra": null,
+            "params": {
+                "b:a": "128k",
+                "c:a": "mp3",
+                "f": "mp3"
+            },
+            "readonly": true,
+            "title": "MP3"
+        },
+        "42fb9cf9-94f9-45c1-954f-1c5879f3d372": {
+            "audioonly": false,
+            "ext": "mp4",
+            "extra": "-crf 22",
+            "params": {
+                "ac": "2",
+                "b:a": "160k",
+                "c:a": "aac",
+                "c:v": "h264",
+                "f": "mp4"
+            },
+            "readonly": true,
+            "title": "Galaxy Tab"
+        },
+        "47b9b2eb-8fd4-4e10-8993-f7d467ed1928": {
+            "audioonly": false,
+            "ext": "mpeg",
+            "extra": null,
+            "params": {
+                "f": "mpeg2video",
+                "target": "ntsc-dvd"
+            },
+            "readonly": true,
+            "title": "MPEG-2 DVD (NTSC)"
+        },
+        "69397f64-54f2-4ee4-b47a-b4fc42ee2ec1": {
+            "audioonly": false,
+            "ext": "mp4",
+            "extra": "-mbd rd -flags +mv4+aic -trellis 2 -cmp 2 -subcmp 2 -g 300",
+            "params": {
+                "ac": 2,
+                "b:a": "128k",
+                "b:v": "500k",
+                "c:a": "aac",
+                "c:v": "mpeg4",
+                "f": "mp4"
+            },
+            "readonly": true,
+            "title": "MP4 500Kb"
+        },
+        "6de4f5ce-8cfe-4f0f-8246-bacb7b0d7624": {
+            "audioonly": false,
+            "ext": "wmv",
+            "extra": null,
+            "params": {
+                "b:v": "500k",
+                "c:a": "wmav2",
+                "c:v": "wmv2",
+                "f": "asf"
+            },
+            "readonly": true,
+            "title": "WMV 500Kb (Windows Media Player)"
+        },
+        "85cd71a0-fb61-45a4-9fed-6f2e6e405bc3": {
+            "audioonly": false,
+            "ext": "mpeg",
+            "extra": null,
+            "params": {
+                "f": "mpeg2video",
+                "target": "pal-dvd"
+            },
+            "readonly": true,
+            "title": "MPEG-2 DVD (PAL)"
+        },
+        "90195ab2-d891-443c-a164-8f0953ec8975": {
+            "audioonly": false,
+            "ext": "wmv",
+            "extra": null,
+            "params": {
+                "b:v": "4000k",
+                "c:a": "wmav2",
+                "c:v": "wmv2",
+                "f": "asf"
+            },
+            "readonly": true,
+            "title": "WMV 4Mb (Windows Media Player)"
+        },
+        "912806c1-6c43-44ad-ac6e-05f105bade55": {
+            "audioonly": false,
+            "ext": "m4v",
+            "extra": null,
+            "params": {
+                "b:a": "128k",
+                "b:v": "800k",
+                "c:a": "aac",
+                "c:v": "mpeg4",
+                "f": "mp4",
+                "r": "24",
+                "s": "480x320"
+            },
+            "readonly": true,
+            "title": "iPhone"
+        },
+        "933b1b41-6862-4ce0-9605-10fa5e4b310c": {
+            "audioonly": false,
+            "ext": "wmv",
+            "extra": null,
+            "params": {
+                "b:v": "2000k",
+                "c:a": "wmav2",
+                "c:v": "wmv2",
+                "f": "asf"
+            },
+            "readonly": true,
+            "title": "WMV 2Mb (Windows Media Player)"
+        },
+        "9ea8a22b-5738-4d0f-8494-3037ec568191": {
+            "audioonly": false,
+            "ext": "avi",
+            "extra": null,
+            "params": {
+                "b:a": "128k",
+                "c:a": "mp3",
+                "c:v": "mpeg4",
+                "f": "avi"
+            },
+            "readonly": true,
+            "title": "AVI 4Mb (mpeg4/mp3)"
+        },
+        "b5535083-bf16-4ae0-a21f-7c637ce0617f": {
+            "audioonly": false,
+            "ext": "mp4",
+            "extra": "-mbd rd -flags +mv4+aic -trellis 2 -cmp 2 -subcmp 2 -g 300",
+            "params": {
+                "ac": 2,
+                "b:a": "128k",
+                "b:v": "2000k",
+                "c:a": "aac",
+                "c:v": "mpeg4",
+                "f": "mp4"
+            },
+            "readonly": true,
+            "title": "MP4 2Mb"
+        },
+        "dfbed97f-46c9-4db8-b5d1-4d19901bc236": {
+            "audioonly": false,
+            "ext": "mp4",
+            "extra": "-mbd rd -flags +mv4+aic -trellis 2 -cmp 2 -subcmp 2 -g 300",
+            "params": {
+                "ac": 2,
+                "b:a": "128k",
+                "b:v": "4000k",
+                "c:a": "aac",
+                "c:v": "mpeg4",
+                "f": "mp4"
+            },
+            "readonly": true,
+            "title": "MP4 4Mb"
+        },
+        "e6587753-4ca5-4d2e-b7ba-beaf1e7f191c": {
+            "audioonly": false,
+            "ext": "mp4",
+            "params": {
+                "c:a": "aac",
+                "c:v": "h264",
+                "f": "mp4"
+            },
+            "readonly": true,
+            "title": "Re-encoded MP4 (h264/aac)"
+        },
+        "ebdbb895-7a1e-43e2-bef4-be6e62cb8507": {
+            "audioonly": false,
+            "ext": "avi",
+            "extra": null,
+            "params": {
+                "b:a": "128k",
+                "b:v": "1000k",
+                "c:a": "mp3",
+                "c:v": "mpeg4",
+                "f": "avi"
+            },
+            "readonly": true,
+            "title": "AVI 1Mb (mpeg4/mp3)"
+        },
+        "edf545c2-88fc-4354-b91d-83e2f31d3c14": {
+            "audioonly": false,
+            "ext": "mov",
+            "extra": null,
+            "params": {
+                "b:a": "128k",
+                "c:a": "aac",
+                "c:v": "h264",
+                "f": "mov",
+                "preset": "fast",
+                "profile:v": "baseline"
+            },
+            "readonly": true,
+            "title": "MOV (QuickTime player)"
+        },
+        "f31ac68e-db3b-4b17-95d7-04456cbc3c26": {
+            "audioonly": false,
+            "ext": "3gp",
+            "extra": null,
+            "params": {
+                "ar": "8000",
+                "b:a": "12k",
+                "b:v": "64k",
+                "c:a": "aac",
+                "c:v": "h263",
+                "f": "3gp",
+                "r": "24",
+                "s": "176x144"
+            },
+            "readonly": true,
+            "title": "Mobile 3GP (Qcif)"
+        }
+    },
+    "variants": {
+        "adp_audio": {
+            "139": {
+                "bitRate": "48429",
+                "codec": "mp4a.40.5",
+                "extension": "mp4"
+            },
+            "140": {
+                "bitRate": "127856",
+                "codec": "mp4a.40.2",
+                "extension": "mp4"
+            },
+            "171": {
+                "bitRate": "133658",
+                "codec": "vorbis",
+                "extension": "webm",
+                "fps": "1"
+            },
+            "249": {
+                "bitRate": "60847",
+                "codec": "opus",
+                "extension": "webm"
+            },
+            "250": {
+                "bitRate": "81952",
+                "codec": "opus",
+                "extension": "webm"
+            },
+            "251": {
+                "codec": null,
+                "extension": "webm"
+            }
+        },
+        "adp_list": [
+            "266/140",
+            "264/140",
+            "137/140",
+            "136/140",
+            "266/171",
+            "264/171",
+            "137/171",
+            "136/171",
+            "248/140",
+            "248/171",
+            "299/140",
+            "299/171",
+            "303/140",
+            "303/171",
+            "247/140",
+            "247/171",
+            "298/140",
+            "298/171",
+            "302/140",
+            "302/171",
+            "135/140",
+            "135/171",
+            "244/140",
+            "244/171",
+            "134/140",
+            "134/171",
+            "133/140",
+            "243/171",
+            "242/140",
+            "243/140",
+            "242/171",
+            "133/171",
+            "278/140",
+            "278/171",
+            "160/140",
+            "160/171",
+            "264/",
+            "133/",
+            "242/",
+            "243/",
+            "160/",
+            "/140",
+            "/171",
+            "136/",
+            "247/",
+            "135/",
+            "244/",
+            "134/",
+            "137/",
+            "248/",
+            "278/",
+            "299/",
+            "303/",
+            "298/",
+            "302/",
+            "266/",
+            "313/140",
+            "313/171",
+            "313/",
+            "271/140",
+            "271/171",
+            "271/",
+            "133/251",
+            "134/251",
+            "135/251",
+            "136/251",
+            "137/251",
+            "160/251",
+            "242/251",
+            "243/251",
+            "244/251",
+            "247/251",
+            "248/251",
+            "264/251",
+            "266/251",
+            "271/251",
+            "278/251",
+            "298/251",
+            "299/251",
+            "302/251",
+            "303/251",
+            "313/251",
+            "/251",
+            "133/249",
+            "134/249",
+            "135/249",
+            "136/249",
+            "137/249",
+            "160/249",
+            "242/249",
+            "243/249",
+            "244/249",
+            "247/249",
+            "248/249",
+            "264/249",
+            "266/249",
+            "271/249",
+            "278/249",
+            "298/249",
+            "299/249",
+            "302/249",
+            "303/249",
+            "313/249",
+            "/249",
+            "133/250",
+            "134/250",
+            "135/250",
+            "136/250",
+            "137/250",
+            "160/250",
+            "242/250",
+            "243/250",
+            "244/250",
+            "247/250",
+            "248/250",
+            "264/250",
+            "266/250",
+            "271/250",
+            "278/250",
+            "298/250",
+            "299/250",
+            "302/250",
+            "303/250",
+            "313/250",
+            "/250",
+            "397/139",
+            "397/140",
+            "397/171",
+            "397/249",
+            "397/250",
+            "397/251",
+            "397/",
+            "396/139",
+            "396/140",
+            "396/171",
+            "396/249",
+            "396/250",
+            "396/251",
+            "396/",
+            "395/139",
+            "395/140",
+            "395/171",
+            "395/249",
+            "395/250",
+            "395/251",
+            "395/",
+            "394/139",
+            "394/140",
+            "394/171",
+            "394/249",
+            "394/250",
+            "394/251",
+            "394/",
+            "398/139",
+            "398/140",
+            "398/171",
+            "398/249",
+            "398/250",
+            "398/251",
+            "398/"
+        ],
+        "adp_video": {
+            "133": {
+                "bitRate": "248086",
+                "codec": "avc1.4d400d",
+                "extension": "mp4",
+                "fps": "30",
+                "size": "320x240"
+            },
+            "134": {
+                "bitRate": "338730",
+                "codec": "avc1.4d401e",
+                "extension": "mp4",
+                "fps": "30",
+                "size": "640x360"
+            },
+            "135": {
+                "bitRate": "721213",
+                "codec": "avc1.4d401f",
+                "extension": "mp4",
+                "fps": "30",
+                "size": "854x480"
+            },
+            "136": {
+                "bitRate": "1124376",
+                "codec": "avc1.4d401f",
+                "extension": "mp4",
+                "fps": "30",
+                "size": "1280x720"
+            },
+            "137": {
+                "bitRate": "4137966",
+                "codec": "avc1.640028",
+                "extension": "mp4",
+                "fps": "30",
+                "size": "1920x1080"
+            },
+            "160": {
+                "bitRate": "111449",
+                "codec": "avc1.4d400c",
+                "extension": "mp4",
+                "fps": "15",
+                "size": "192x144"
+            },
+            "242": {
+                "bitRate": "180842",
+                "codec": "vp9",
+                "extension": "webm",
+                "fps": "1",
+                "size": "320x240"
+            },
+            "243": {
+                "bitRate": "332350",
+                "codec": "vp9",
+                "extension": "webm",
+                "fps": "1",
+                "size": "320x240"
+            },
+            "244": {
+                "bitRate": "419080",
+                "codec": "vp9",
+                "extension": "webm",
+                "fps": "30",
+                "size": "854x480"
+            },
+            "247": {
+                "bitRate": "877134",
+                "codec": "vp9",
+                "extension": "webm",
+                "fps": "30",
+                "size": "1280x720"
+            },
+            "248": {
+                "bitRate": "2835123",
+                "codec": "vp9",
+                "extension": "webm",
+                "fps": "30",
+                "size": "1920x1080"
+            },
+            "264": {
+                "bitRate": "9957081",
+                "codec": "avc1.640032",
+                "extension": "mp4",
+                "fps": "25",
+                "size": "2560x1440"
+            },
+            "266": {
+                "bitRate": "22215059",
+                "codec": "avc1.640033",
+                "extension": "mp4",
+                "fps": "25",
+                "size": "3840x2160"
+            },
+            "271": {
+                "bitRate": "9227182",
+                "codec": "vp9",
+                "extension": "webm",
+                "fps": "25",
+                "size": "2560x1440"
+            },
+            "278": {
+                "bitRate": "96779",
+                "codec": "vp9",
+                "extension": "webm",
+                "fps": "1",
+                "size": "256x144"
+            },
+            "298": {
+                "bitRate": "3317977",
+                "codec": "avc1.4d4020",
+                "extension": "mp4",
+                "fps": "60",
+                "size": "1280x720"
+            },
+            "299": {
+                "bitRate": "5546416",
+                "codec": "avc1.64002a",
+                "extension": "mp4",
+                "fps": "60",
+                "size": "1920x1080"
+            },
+            "302": {
+                "bitRate": "3752347",
+                "codec": "vp9",
+                "extension": "webm",
+                "fps": "60",
+                "size": "1280x720"
+            },
+            "303": {
+                "bitRate": "6088401",
+                "codec": "vp9",
+                "extension": "webm",
+                "fps": "60",
+                "size": "1920x1080"
+            },
+            "313": {
+                "bitRate": "22856955",
+                "codec": "vp9",
+                "extension": "webm",
+                "fps": "25",
+                "size": "3840x2160"
+            },
+            "394": {
+                "bitRate": "92547",
+                "codec": "av01.0.05M.08",
+                "extension": "mp4",
+                "fps": "30",
+                "size": "256x144"
+            },
+            "395": {
+                "bitRate": "233342",
+                "codec": "av01.0.05M.08",
+                "extension": "mp4",
+                "fps": "30",
+                "size": "426x240"
+            },
+            "396": {
+                "bitRate": "448909",
+                "codec": "av01.0.05M.08",
+                "extension": "mp4",
+                "fps": "30",
+                "size": "640x360"
+            },
+            "397": {
+                "bitRate": "831911",
+                "codec": "av01.0.05M.08",
+                "extension": "mp4",
+                "fps": "30",
+                "size": "854x480"
+            },
+            "398": {
+                "bitRate": "1590331",
+                "codec": "av01.0.08M.08",
+                "extension": "mp4",
+                "fps": "60",
+                "size": "1280x720"
+            }
+        },
+        "full": {
+            "tbvws:133": {
+                "audioCodec": null,
+                "enabled": true,
+                "extension": "mp4",
+                "label": "(tbvws:133) - Low - MP4",
+                "quality": "small",
+                "videoCodec": null
+            },
+            "tbvws:135": {
+                "audioCodec": null,
+                "enabled": true,
+                "extension": "mp4",
+                "label": "(tbvws:135) -  - MP4",
+                "quality": "large",
+                "videoCodec": null
+            },
+            "tbvws:136": {
+                "audioCodec": null,
+                "enabled": true,
+                "extension": "mp4",
+                "label": "(tbvws:136) -  - MP4",
+                "quality": "hd720",
+                "videoCodec": null
+            },
+            "tbvws:160": {
+                "audioCodec": null,
+                "enabled": true,
+                "extension": "mp4",
+                "label": "(tbvws:160) -  - MP4",
+                "quality": "tiny",
+                "videoCodec": null
+            },
+            "tbvws:17": {
+                "audioCodec": "+mp4a.40.2",
+                "enabled": true,
+                "extension": "3gpp",
+                "label": "3GPP - 176x144",
+                "quality": "small",
+                "size": "176x144",
+                "videoCodec": "mp4v.20.3"
+            },
+            "tbvws:18": {
+                "audioCodec": "+mp4a.40.2",
+                "enabled": true,
+                "extension": "mp4",
+                "label": "MP4 - 480x360",
+                "quality": "medium",
+                "size": "480x360",
+                "videoCodec": "avc1.42001E"
+            },
+            "tbvws:22": {
+                "audioCodec": "+mp4a.40.2",
+                "enabled": true,
+                "extension": "mp4",
+                "label": "MP4 - 1280x720",
+                "quality": "hd720",
+                "size": "1280x720",
+                "videoCodec": "avc1.64001F"
+            },
+            "tbvws:242": {
+                "audioCodec": null,
+                "enabled": true,
+                "extension": "mp4",
+                "label": "(tbvws:242) - Low - MP4",
+                "quality": "small",
+                "videoCodec": null
+            },
+            "tbvws:243": {
+                "audioCodec": null,
+                "enabled": true,
+                "extension": "mp4",
+                "label": "(tbvws:243) - Medium - MP4",
+                "quality": "medium",
+                "videoCodec": null
+            },
+            "tbvws:244": {
+                "audioCodec": null,
+                "enabled": true,
+                "extension": "mp4",
+                "label": "(tbvws:244) -  - MP4",
+                "quality": "large",
+                "videoCodec": null
+            },
+            "tbvws:247": {
+                "audioCodec": null,
+                "enabled": true,
+                "extension": "mp4",
+                "label": "(tbvws:247) -  - MP4",
+                "quality": "hd720",
+                "videoCodec": null
+            },
+            "tbvws:248": {
+                "audioCodec": null,
+                "enabled": true,
+                "extension": "mp4",
+                "label": "(tbvws:248) -  - MP4",
+                "quality": "hd1080",
+                "videoCodec": null
+            },
+            "tbvws:278": {
+                "audioCodec": null,
+                "enabled": true,
+                "extension": "mp4",
+                "label": "(tbvws:278) -  - MP4",
+                "quality": "tiny",
+                "videoCodec": null
+            },
+            "tbvws:36": {
+                "audioCodec": "+mp4a.40.2",
+                "enabled": true,
+                "extension": "3gpp",
+                "label": "3GPP - 320x240",
+                "quality": "small",
+                "size": "320x240",
+                "videoCodec": "mp4v.20.3"
+            },
+            "tbvws:43": {
+                "audioCodec": "+vorbis",
+                "enabled": true,
+                "extension": "webm",
+                "label": "WEBM - 480x360",
+                "quality": "medium",
+                "size": "480x360",
+                "videoCodec": "vp8.0"
+            },
+            "tbvws:5": {
+                "audioCodec": null,
+                "enabled": true,
+                "extension": "flv",
+                "label": "FLV - 320x240",
+                "quality": "small",
+                "size": "320x240",
+                "videoCodec": null
+            },
+            "tfvws:1080-0": {
+                "audioCodec": null,
+                "enabled": true,
+                "extension": "mp4",
+                "label": "H264_1920x1080 -MP4",
+                "size": "1920x1080",
+                "videoCodec": null
+            },
+            "tfvws:240-0": {
+                "audioCodec": null,
+                "enabled": true,
+                "extension": "mp4",
+                "label": "H264_320x240 -MP4",
+                "size": "320x240",
+                "videoCodec": null
+            },
+            "tfvws:380-0": {
+                "audioCodec": null,
+                "enabled": true,
+                "extension": "mp4",
+                "label": "H264_512x384 -MP4",
+                "size": "512x384",
+                "videoCodec": null
+            },
+            "tfvws:480-0": {
+                "audioCodec": null,
+                "enabled": true,
+                "extension": "mp4",
+                "label": "H264_848x480 -MP4",
+                "size": "848x480",
+                "videoCodec": null
+            },
+            "tfvws:720-0": {
+                "audioCodec": null,
+                "enabled": true,
+                "extension": "mp4",
+                "label": "H264_1280x720 -MP4",
+                "size": "1280x720",
+                "videoCodec": null
+            }
+        },
+        "full_list": [
+            "tbvws:22",
+            "tbvws:18",
+            "adp:1",
+            "tbvws:5",
+            "tbvws:17",
+            "adp:2",
+            "tbvws:43",
+            "tbvws:36",
+            "tfvws:1080-0",
+            "tfvws:720-0",
+            "tfvws:480-0",
+            "tfvws:380-0",
+            "tfvws:240-0",
+            "adp:3",
+            "adp:4",
+            "tbvws:248",
+            "tbvws:136",
+            "tbvws:247",
+            "tbvws:135",
+            "tbvws:244",
+            "tbvws:243",
+            "tbvws:133",
+            "tbvws:242",
+            "tbvws:160",
+            "tbvws:278"
+        ]
+    },
+    "weh-prefs": {
+        "networkProbe": true,
+        "titleMode": "right",
+        "iconActivation": "currenttab",
+        "iconBadge": "tasks",
+        "hitsGotoTab": true,
+        "default-action-0": "quickdownload",
+        "default-action-1": "openlocalfile",
+        "default-action-2": "abort",
+        "smartnamerFnameSpaces": "keep",
+        "smartnamerFnameMaxlen": 64,
+        "downloadControlledMax": 6,
+        "downloadStreamControlledMax": 6,
+        "autoPin": false,
+        "mediaExtensions": "flv|ram|mpg|mpeg|avi|rm|wmv|mov|asf|mp3|rar|movie|divx|rbs|mp4|mpeg4",
+        "dashHideM4s": true,
+        "mpegtsHideTs": true,
+        "orphanExpiration": 60,
+        "chunksEnabled": true,
+        "hlsEnabled": true,
+        "dashEnabled": true,
+        "f4fEnabled": true,
+        "dashOnAdp": "audio_video",
+        "hlsDownloadAsM2ts": false,
+        "networkFilterOut": "/frag\\\\([0-9]+\\\\)/|[&\\\\?]range=[0-9]+-[0-9]+|/silverlight/",
+        "mediaweightThreshold": 1048576,
+        "mediaweightMinSize": 4096,
+        "tbvwsEnabled": true,
+        "ignoreProtectedVariants": true,
+        "qualitiesMaxVariants": 6,
+        "adpHide": false,
+        "adaptativeCount": 4,
+        "converterThreads": "auto",
+        "converterAggregTuneH264": false,
+        "notifyReady": true,
+        "noPrivateNotification": true,
+        "avplayEnabled": true,
+        "blacklistEnabled": true,
+        "chunksConcurrentDownloads": 4,
+        "chunksPrefetchCount": 4,
+        "downloadRetries": 3,
+        "downloadRetryDelay": 1000,
+        "mpegtsSaveRaw": false,
+        "mpegtsSaveRawStreams": false,
+        "mpegtsEndsOnSeenChunk": true,
+        "converterKeepTmpFiles": false,
+        "f4fFragPostUrl": true,
+        "f4fFragIndex": true,
+        "backgroundReduxLogger": false,
+        "dlconvLastOutput": "",
+        "linuxLicense": false,
+        "qrMessageNotAgain": false,
+        "coappShellEnabled": false,
+        "tbsnFilterOut": true,
+        "downloadCount": 1127,
+        "donateNotAgainExpire": 1584733723,
+        "popupHeightLeftOver": 100,
+        "coappDownloads": "browser",
+        "lastDownloadDirectory": "/home/admin/Downloads",
+        "fileDialogType": "tab",
+        "alertDialogType": "tab",
+        "monitorNetworkRequests": true,
+        "chunkedCoappManifestsRequests": false,
+        "chunkedCoappDataRequests": true,
+        "coappRestartDelay": 1000,
+        "rememberLastDir": true,
+        "coappIdleExit": 60000,
+        "dialogAutoClose": false,
+        "convertControlledMax": 1,
+        "checkCoappOnStartup": true,
+        "coappUseProxy": true,
+        "downloadCompleteDelay": 1000,
+        "contentRedirectEnabled": true,
+        "contextMenuEnabled": true,
+        "toolsMenuEnabled": false,
+        "medialinkExtensions": "jpg|jpeg|gif|png|mpg|mpeg|avi|rm|wmv|mov|flv|mp3|mp4",
+        "medialinkMaxHits": 50,
+        "medialinkMinFilesPerGroup": 6,
+        "medialinkMinImgSize": 80,
+        "medialinkAutoDetect": false,
+        "medialinkScanImages": true,
+        "medialinkScanLinks": true,
+        "bulkEnabled": true,
+        "tbvwsGrabDelay": 2000,
+        "forcedCoappVersion": "",
+        "lastHlsDownload": 1586896885047,
+        "tbsnEnabled": true,
+        "galleryNaming": "type-index"
+    }
+}
