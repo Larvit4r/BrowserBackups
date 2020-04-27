@@ -1,0 +1,21 @@
+These are just my main browser extensions. They will be labeled with VIV for Vivaldi/Chromium, GIC for GNU IceCat/Firefox, or no label for both.
+
+'Nuff Tabs [VIV] (I have a problem with opening a ton of tabs... :') )
+Reddit Enhancement Suite [VIV] (Obviously for Reddit.)
+HTTPS Everywhere [GIC] or Smart HTTPS [VIV] (Can't install Smart HTTPS on GIC for some reason...)
+The Great Suspender [VIV] (See comment for 'Nuff Tabs, hahah.)
+Trace: Online Tracking Protection
+uBlock Origin
+uMatrix [VIV] (I'm more strict about ads/garbage on my main browser.)
+Vanilla Cookie Manager (VIV) (See comment for uMatrix.)
+Video Download Helper
+ViolentMonkey
+
+
+Other extensions that I use for specific situations:
+
+Honey (For coupons for online shopping.)
+Rakuten (For cash back for online shopping. Formerly Ebates.)
+ScriptSafe (If extra paranoid about tracking.)
+Stylus
+Web Scrobbler (For Last.FM scrobbling.)
