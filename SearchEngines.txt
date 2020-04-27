@@ -1,0 +1,80 @@
+This is a backup of my Vivaldi/Chromium search engines, in case of data loss. Feel free to steal any, no credit or linking back necessary.
+
+Currently a WIP while I work on other things!
+
+--
+
+Format:
+
+Site Title Here (nickname)
+search_url_here
+suggest_url_here (DuckDuckGo by default if applicable, Wiktionary if I need single word suggestions, N/A if not applicable)
+
+---
+
+AlternativeTo (alt)
+https://alternativeto.net/browse/search?q=%s
+https://ac.duckduckgo.com/ac/?q=%s&type=list
+
+Aniwatcher (ani)
+https://aniwatcher.com/search?q=%s
+https://ac.duckduckgo.com/ac/?q=%s&type=list
+
+Anki (anki)
+https://ankiweb.net/shared/decks/%s
+wik
+
+Amazon (am)
+https://smile.amazon.com/s/?field-keywords=%s
+https://ac.duckduckgo.com/ac/?q=%s&type=list
+
+Bulbapedia (b)
+https://bulbapedia.bulbagarden.net/w/index.php?title=Special%3ASearch&search=%s&go=Go
+https://ac.duckduckgo.com/ac/?q=%s&type=list
+
+DuckDuckGo (d)
+https://duckduckgo.com/?q=%s&t=vivaldi
+https://ac.duckduckgo.com/ac/?q=%s&type=list
+
+deviantART, most popular (da)
+https://deviantart.com/popular-all-time/?section=&global=1&q=%s
+https://ac.duckduckgo.com/ac/?q=%s&type=list
+
+DuckDuckGo Images (di)
+ttps://duckduckgo.com/?q=%s&t=vivaldi&iar=images&iax=images&ia=images
+https://ac.duckduckgo.com/ac/?q=%s&type=list
+
+DailyMotion (dm)
+https://dailymotion.com/search/%sv
+
+Emojipedia (e)
+https://emojipedia.org/search/?q=%s
+wik
+
+Last.FM, artist's top songs (fm)
+https://last.fm/music/%s/+tracks?date_preset=ALL
+https://ac.duckduckgo.com/ac/?q=%s&type=list
+
+Greasyfork (gf)
+https://greasyfork.org/en/scripts?q=%s
+https://ac.duckduckgo.com/ac/?q=%s&type=list
+
+Github (gh)
+https://github.com/search?utf8=%E2%9C%93&q=%s&type=
+https://ac.duckduckgo.com/ac/?q=%s&type=list
+
+IMDB (imdb)
+https://imdb.com/find?q=%s&s=all
+https://ac.duckduckgo.com/ac/?q=%s&type=list
+
+OpenUserJS (js)
+https://openuserjs.org/?orderBy=installs&orderDir=desc&q=%s
+https://ac.duckduckgo.com/ac/?q=%s&type=list
+
+OpenStreetMap (osm)
+http://openstreetmap.org/search?query=%s
+N/A
+
+Nitter (n)
+https://nitter.snopyta.org/search?f=tweets&q=%s
+https://ac.duckduckgo.com/ac/?q=%s&type=list
